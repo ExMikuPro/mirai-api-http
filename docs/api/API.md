@@ -952,7 +952,7 @@
 ```json5
 {
   "code":0,
-  "msg":""
+  "msg":"success"
 }
 ```
 
